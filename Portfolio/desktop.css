@@ -12,6 +12,8 @@
  .col-11 {width: 91.66%;}
  .col-12 {width: 100%;}
 
+
+ /* NAVBAR START */
  .nav-logo{
      text-align: left;
  }
@@ -30,3 +32,126 @@
     margin: 20px 0;
     background-color: transparent;
 }
+
+/* NAVBAR ENDS */
+
+
+
+/* PROFILE START */
+.profile .top-w-icon{
+    right: 100px;
+    width: 120px;
+    transition:width 2s, transform 2s;
+}
+
+.profile .top-w-icon:hover{
+    width: 140px;
+}
+
+
+.pro-desc p{
+    color: gray;
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.profile .bottom-w-icon{
+    bottom: 20px;
+    left: 100px;
+    width: 120px;
+    transition:width 2s, transform 2s;
+}
+
+.profile .bottom-w-icon:hover{
+    width: 140px;
+}
+
+/* PROFILE ENDS */
+
+/* ABOUT ME START */
+
+.about-me{
+   
+    background-color: #39a4ac;
+    color: white;
+    font-family: 'Montserrat', sans-serif; 
+    padding: 1% 7%;  
+    text-align: center;
+}
+
+.aboutme-image{
+    margin-top: 100px;
+}
+
+.aboutme-image img{   
+    height: 270px;
+    width: 250px;
+}
+.aboutme-desc p{
+    text-align: left;
+}
+
+/* ABOUT ME ENDS HERE */
+
+
+
+
+ /* PROFESSIONAL EXPRENCE START HERE */
+
+.professional-experience{
+    padding: 1% 5%;
+}
+
+ /* PROFESSIONAL EXPREENCS ENDS HERE */
+
+
+
+
+ /* CONTACT START FROM HERE */
+
+
+ .achievement{
+     padding-right: 50px;
+ }
+
+
+ .contact-links{
+     position: relative;
+ }
+
+ .media-buttons{
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+     margin-top: 200px;
+ }
+
+
+ /* CONTACT ENDS HERE */
+
+
+
+
+
+
+ /* footer designing starts here */
+.footer-menu{
+    margin-top: 12px;
+}
+
+.footer-menu a{
+    display: inline;
+    font-size: 1rem;
+    margin: 10px;
+}
+/* footer designing ends here */
+
+
+
+
+
+ 
+
